@@ -27,8 +27,8 @@ My superpower lies in **pattern recognition, meticulous research, and data accur
 ## 🎓 Certifications & Continuous Learning
 
 *   **Google AI Essentials Certification** (Completed June 2026)
-*   **Google AI Professional Certificate** (In Progress)
-*   **Vanderbilt University Prompt Engineering Specialization** (In Progress)
+*   **Google AI Professional Certificate** (Completed July 2026)
+*   **TCI Transcription Cetificate** (In Progress)
 *   **Walmart Academy Certification** (Advanced Leadership & Operations Modules)
 
 ---
@@ -47,7 +47,7 @@ My superpower lies in **pattern recognition, meticulous research, and data accur
 
 ## 📬 Connect with Me
 
-*   💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
-*   📫 Email: [Your Email Here]
+*   💼 [LinkedIn](https//www.linkedin.com/in/rachel-sparkman-aaa902410)
+*   📫 Email: [arespark787@gmail.com]
 
 *"Cracking good at pattern recognition, continuous learning, and getting things exactly right the first time."*
