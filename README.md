@@ -28,7 +28,7 @@ My superpower lies in **pattern recognition, meticulous research, and data accur
 
 *   **Google AI Essentials Certification** (Completed June 2026)
 *   **Google AI Professional Certificate** (Completed July 2026)
-*   **TCI Transcription Cetificate** (In Progress)
+*   **TCI Transcription Cetificate** (Completed July 2026)
 *   **Walmart Academy Certification** (Advanced Leadership & Operations Modules)
 
 ---
@@ -37,7 +37,6 @@ My superpower lies in **pattern recognition, meticulous research, and data accur
 
 ### 🌟 [Personal Portfolio Website](https://rlspark87.github.io/rachel_portfoliio/)
 *   **What it is:** My digital home showcasing my career pivot, active learning tracks, and core capabilities.
-<iframe src="https://gamma.app/embed/oml6pmaxkqh2tcz" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Project Charter: Defining Our Path to Success"></iframe>
 
 ### 📅 Python Budget Itinerary App *(In Development)*
 *   **What it is:** A custom script designed to automate granular, budget-aware, day-by-day travel scheduling.
